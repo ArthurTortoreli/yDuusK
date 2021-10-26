@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yDuusK or Arthur;
+- 👋 Hi, I’m @yDuusK or Arthur Tortoreli;
 - 👀 I’m interested in business, technology, games, books, gym and pets;
 - 🌱 I’m currently learning Python and Cloud Computing;
 - 💞️ I’m looking to collaborate on Innovative Business;
